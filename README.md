@@ -1,5 +1,6 @@
 # golang-cloudflare-bypass
-
+<h2>Requirements</h2>
+<pre>proxy.txt</pre>
 <h2>SETUP</h2>
 <pre>apt install golang</pre>
 <pre>go get github.com/AurevoirXavier/cloudflare-bypasser-go</pre>
